@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "weather": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "-p",
+        "open-meteo-mcp-server",
+        "open-meteo-mcp-server"
+      ]
+    }
+  }
+}
